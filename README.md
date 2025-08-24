@@ -51,4 +51,4 @@ This project is provided for educational and demonstration purposes.
 
 ## Author
 
-GitHub Copilot
+Harsh Nanglia
